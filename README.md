@@ -6,3 +6,14 @@ Features
 - Detects asset movement based on RSSI threshold
 - Sends MQTT alerts to a broker
 - (Optional) Interacts with real BLE devices using `bleak`
+  
+  Project Structure
+
+BLE-Asset-Tracking-Edge-Alerting/
+├── requirements.txt
+└── src/
+├── config.py
+├── ble_simulator.py
+├── edge_server.py
+├── mqtt_alert_publisher.py
+└── run_tracking.py
