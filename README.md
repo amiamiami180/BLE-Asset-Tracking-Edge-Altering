@@ -17,10 +17,16 @@ BLE-Asset-Tracking-Edge-Alerting/
 -README.md
 
 -src/
+
 -config.py
+
 -ble_simulator.py
+
 -ble_scanner.py
+
 -edge_server.py
+
 -mqtt_alert_publisher.py
+
 -run_tracking.py
 
