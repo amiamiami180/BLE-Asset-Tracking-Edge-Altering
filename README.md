@@ -9,9 +9,13 @@ The project supports two modes:
 - **Real work** with BLE devices (via the `bleak` library)
 
 Project structure
+
 BLE-Asset-Tracking-Edge-Alerting/
+
 -requirements.txt
+
 -README.md
+
 -src/
 -config.py
 -ble_simulator.py
