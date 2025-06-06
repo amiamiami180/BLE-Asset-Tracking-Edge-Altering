@@ -30,3 +30,6 @@ BLE-Asset-Tracking-Edge-Alerting/
 
 -run_tracking.py
 
+Technologies Used:
+BLE (advertising mode), Simulink, MQTT, Python edge server
+
