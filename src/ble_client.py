@@ -5,7 +5,7 @@ from bleak import BleakClient, BleakScanner
 SERVICE_UUID = "12345678-1234-5678-1234-56789ABCDE0"
 CHAR_UUID = "ABCDEF01-1234-5678-1234-56789ABCDE0"
 
-# Имя твоего iPhone (по результатам сканирования)
+
 TARGET_NAME = "iPhone Amina"
 TARGET_ADDRESS = "5CA05517-D577-42F7-3F68-120D5A0AEA44"  # тоже можешь использовать
 
